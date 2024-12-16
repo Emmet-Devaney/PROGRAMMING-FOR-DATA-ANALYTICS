@@ -9,7 +9,7 @@ This repository contains assignments completed as part of the *Programming for D
 ## Assignments
 
 ### **Assignment 2: Weather**
-- **Objective**: Create a notebook to plot temperature over time (`dryBulbTemperature_Celsius`).
+- **Objective**: Create a notebook to plot temperature over time.
 - **Key Steps**:
   - Load the CSV file using `pandas`.
   - Convert `reportStartDateTime` to `datetime` format.
