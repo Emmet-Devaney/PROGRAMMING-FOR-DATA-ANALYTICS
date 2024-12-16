@@ -2,7 +2,7 @@
 
 ## Assignment Repository
 
-This repository contains assignments completed as part of the *Programming for Data Analytics* module in the [Higher Diploma in Science in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics).
+This repository contains assignments completed as part of the *Programming for Data Analytics* module in the Higher Diploma in Science in Data Analytics.
 
 ---
 
