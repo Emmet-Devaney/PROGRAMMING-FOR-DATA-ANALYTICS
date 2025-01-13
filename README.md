@@ -49,8 +49,18 @@ This repository contains assignments completed as part of the *Programming for D
 ---
 
 ## Project
-TBC
+I have chosen to do my project using the weather data for the Shannon Airport. Here I will be analysing the information broadly ebfore focusing in on two specific variables and their relationship with each other based on the data collectedf from 1945 - 2024. 
 
+The variales I will be looking at are:
+- Mean Temperature
+- Mean Wind Speed
+
+### Conclusion
+The weak negative relationship between temperature and wind speed isn't strong enough to make predictions. Other factors, like location, time of year, pressure systems, or local weather, could be affecting both.
+
+This weak correlation shows that weather patterns are complex and influenced by many things. Wind speed can be affected by storms, pressure, or geography, not just temperature.
+
+To better understand the relationship between wind speed and temperature, more analysis is needed.
 ---
 
 ## Author
